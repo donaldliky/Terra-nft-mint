@@ -1,0 +1,35 @@
+.carousel-section {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.carousel-section .nftItem {
+    width: 100%;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.carousel-section .nftItem .name {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.carousel-section .nftItem img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.carousel-section .nftItem .table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.tdItem {
+    text-align: center;
+}
+
+.slide-img {
+    width: 70%;
+    height: auto;
+    border-radius: 20px;
+}
